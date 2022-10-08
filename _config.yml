@@ -31,7 +31,7 @@ github_username: simon.r.watson
 markdown: kramdown
 
 # Build settings
-theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
